@@ -1,0 +1,77 @@
+{% include _header.html %}
+
+<nav class="top_bar" data-spy="affix" data-offset-top="20">
+  <div class="container container_wide">
+
+    <div class="logo_top_bar">
+      	<a href="http://www.opentechschool.org/">OpenTechSchool</a>
+    </div>
+    <ul class="nav nav_internal collapse">
+      <li>
+        <a href="http://www.opentechschool.org/about.html">About</a>
+      </li>
+      <li>
+        <a href="http://blog.opentechschool.org/">Blog</a>
+      </li>
+      <li>
+        <ul class="nav nav_external">
+          <li>
+            <a href="https://twitter.com/OpenTechSchool" class="ots_nav_icon twitter">Twitter</a>
+          </li>
+          <li style="margin: 0;">
+            <a href="http://www.facebook.com/OpenTechSchool" class="ots_nav_icon facebook">Facebook</a>
+          </li>
+          <li>
+            <a href="https://github.com/OpenTechSchool" class="ots_nav_icon github">Github</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+
+    <div class="clearfix"></div>
+  </div>
+</nav>
+
+
+
+<header class="site_header site_header_landing">
+
+  <div class="container">
+
+    <h1 class="">
+      <a href="/">{{page.title}}</a>
+    </h1>
+
+    <p>{{page.headline}}</p>
+
+  </div>
+
+</header>
+
+<div class="bg_full bg_full_white">
+  	<div class="container container_narrow">
+
+		{{content}}
+
+	</div>
+</div>
+
+
+<footer>
+    <div class="container container_wide">
+      <p>
+        <a title="we are under creative commons" href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.opentechschool.org/images/by-sa-cp.png"></a><br>
+        <small>
+          Except <a href="http://www.opentechschool.org/imprint.html">where otherwise noted</a>, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+        </small>
+      </p>
+
+      <p>
+        © 2012 by <a href="http://www.opentechschool.org">OpenTechSchool e.V.</a>&nbsp;&nbsp;||&nbsp;&nbsp;<a href="http://www.opentechschool.org/contact.html">Contact us</a>&nbsp;&nbsp;||&nbsp;&nbsp;<a href="http://www.opentechschool.org/imprint.html">Impressum</a>
+      </p>
+
+    </div>
+  </footer>
+
+</body>
+</html>
