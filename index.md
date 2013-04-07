@@ -4,51 +4,93 @@ title: App Summer Camp
 headline: Hamburg, 16. - 19. Juli 2013
 ---
 
-## About
-This is a sample paragraph of Text for the Quick description of something awesome going on. You can also put in [markup links](http://www.opentechschool.org/) and lists and everything else in [markdown format](http://daringfireball.net/projects/markdown/) if you like. See:
+## Über das App Summer Camp
 
- * We rock
- * You rock
- * Let's rock together
-
-### And pictures, too:
-
-![Look at that great picture](http://www.opentechschool.org/images/bg_about.jpg)
+* <h3>Was?</h3>
+An vier Tagen lernt ihr, eigene Apps zu entwickeln. Außerdem bekommt ihr ein Präsentationstraining, um eure eigene App am Ende vorzustellen. Ihr arbeitet in kleinen Teams und werdet unglaublich viel Spaß haben - versprochen!
+ 
+* <h3>Warum?</h3>
+Wir - das sind Marie und Diana - wollen Schülerinnen zeigen, dass es gar nicht so schwierig ist, eigene Apps zu entwicklen. Und vor allem, dass es super viel Spaß macht. Wir freuen uns auf euch!
+ 
+* <h3>Für wen?</h3>
+Für Schülerinnen der Klassen 8, 9 und 10. Programmierkenntnisse sind nicht nötig. Das lernt ihr alles in unserem Workshop. Was ihr braucht: Spaß, Vorfreude und Motivation.
+ 
+* <h3>Wann?</h3>
+Von Dienstag, 16. Juli bis Freitag, 19. Juli 2013. Jeweils ab 11 Uhr.
+ 
+* <h3>Wo?</h3>
+In Hamburg. Die genaue Adresse wird noch bekannt gegeben.
+ 
+* <h3>Kostenlos?</h3>
+Ja. 
 
 ## Team
-It is us doing awesome things. Showing you how you can include any kind of default HTML as well:
+Wer organisiert das App Summer Camp?
 
 <div class="team_list">
 	<div class="right">
 		
 		<img src="http://www.opentechschool.org/images/team/giorgia.jpg" />
-		
 
-		<h3 id="gio">Giorgia Sambrotta</h3>
-		<p>is Web Designer at Delivery Hero. She is an active member behind the learners meetup format and organises OTS-Workshops on conferences and other external events.</p>
-		<p><a href="mailto: giorgia at OpenTechSchool dot org">giorgia at OpenTechSchool dot org</a></p>
+		<h3 id="gio">Diana</h3>
+		<p>Ich arbeite in der IT Branche. Studiert habe ich Medien Informatik in Verbindung mit Psychologie. Apps sind aus meinem Leben nicht mehr wegzudenken. Shopping, Fotos, Spiele - alles mit dem Handy.</p>
+		<p>Auf das App Summer Camp freu ich mich besonders, weil ich in meiner Branche wenig Kontakt zu Jugendlichen habe. Dabei arbeite ich sehr gerne mit Schülerinnen - vor allem wenn es um kreative Ideen geht. Ich hatte die Idee zum App Summer Camp, weil ich gerne zeigen möchte, wie viel Spaß Programmieren machen kann. </p>
+		<p><a href="mailto: diana at OpenTechSchool dot org">diana at OpenTechSchool dot org</a></p>
 	</div>
 	<div class="left">
 		
 		<img src="http://www.opentechschool.org/images/team/aleks.jpg" />
 
-		<h3 id="aleks">Aleks</h3>
-		<p>is the community manager of Co.Up, the coworking space where it all began. At the OpenTechSchool she helps with organising events and as a magician with words is in charge of copy-editing.</p>
-		<p><a href="mailto: aleks at OpenTechSchool dot org">aleks at OpenTechSchool dot org</a></p>
-	</div>
-	<div class="right">
+		<h3 id="aleks">Marie</h3>
+		<p>Ich arbeite zur Zeit an der Stadtteilschule Stellingen. Studiert habe ich Politik und Spanisch. Das klingt ja erst mal nicht gerade nach App Entwicklung. Aber gerade beim Lernen von Fremdsprachen sind Apps eine absolute Bereicherung.</p>
+		<p>Auf das App Summer Camp freu ich mich besonders, weil ich dabei auch noch viel lernen kann. Meine erste eigene App habe ich vor kurzem entwickelt. Als sie dann tatsächlich auf dem Handy lief, fand ich das super. In den Ferien möchte ich meine neue Begeisterung für die App Entwicklung mit euch teilen. Darauf freu ich mich schon!</p>
 		
-		<img src="http://www.opentechschool.org/images/team/stefan.jpg" />
-		
-		<h3 id="stefan">Stefan Hoth</h3>
-		<p>is a freelance Web- and Mobile-Software Developer. Aside from being co-author and -host of the Android-Workshops, he helps with his huge network of contacts in the industry and works on the long-term strategy.</p>
-		<p><a href="mailto: stefan at OpenTechSchool dot org">stefan at OpenTechSchool dot org</a></p>
 	</div>
+	
 </div>
 
+## Programm
+Das erwartet dich beim App Summer Camp
 
-## About the OpenTechSchool
+* <h3>Tag 1: 16.07.2013, 11 - 15 Uhr</h3>
+Wir lernen uns kennen.
+Wir besuchen ein Startup/eine IT Firma. "Was ist ein Startup und welches besuchen wir?" Lass dich überraschen! :)
 
-It is helpful to have a short text about the OpenTechSchool itself at the end of it. This is official short paragraph from the [press-section, where you can find it on other languages, too](http://www.opentechschool.org/press.html)
+* <h3>Tag 2: 17.07.2013, 11 - 15 Uhr</h3>
+Du entwickelst Schritt für Schritt deine erste App fürs Handy. Abends kannst du sie deinen Freundinnen zeigen.
+Wir bekommen einen Überraschungsbesuch - sei gespannt!
 
-OpenTechSchool is a community initiative offering free programming workshops and meetups to technology enthusiasts of all genders, backgrounds, and experience levels. It supports volunteer coaches in setting up the events taking care of the organizational details and encouraging them to create original teaching material, to be then openly shared online and further developed with contributions from the global OTS community. OTS’s main goal is to create a friendly learning environment where no one feels shy about asking any question. Everyone is invited to participate, whether as a coach or a learner, and get in contact to organize OTS events anywhere in the world.
+* <h3>Tag 3: 18.07.2013, 11 - 15 Uhr</h3>
+Nun ist deine Kreativität gefragt: Im Team überlegt ihr euch ein cooles Konzept für eure eigene App.
+Eure erste eigene App: Die Coaches helfen euch dabei, dass alles so klappt, wie ihr euch das vorstellt.
+
+* <h3>Tag 4: 19.07.2013, 11 - 17 Uhr, Präsentation ab 18 Uhr</h3>
+Eure App ist bestimmt super geworden. Ihr bereitet eine Präsentation für den Abend vor. Auch hier stehen euch die Coaches wieder zur Seite.
+Abends sind alle auf eure App gespannt: Familie, Freunde und weitere Gäste freuen sich auf eure Präsentationen. Wir haben jeden Grund zu feiern und das tun wir auch!
+
+## Bewerbung
+Du hast Lust auf das App Summer Camp und bist motiviert? Dann bewirb dich!
+
+* <h3>Wer kann teilnehmen?</h3>
+Schülerinnen der Klassenstufen 8, 9 und 10. 
+ 
+* <h3>Warum muss ich mich bewerben?</h3>
+Für uns ist es wichtig, dass ihr wirklich motiviert seid und Lust habt, eure eigene App zu entwickeln. 
+ 
+* <h3>Muss ich mich gut mit Computern auskennen?</h3>
+Nein, dafür machen wir das App Summer Camp ja. Vorkenntnisse sind nicht nötig. Wir haben Coaches, die dir bei Fragen zur Seite stehen. 
+ 
+* <h3>Wie viele Plätze gibt es?</h3>
+Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe von 8 - 12 Schülerinnen. 
+ 
+Sobald wir mit der Bewerbungsphase starten, wirst du hier das Bewerbungsformular finden. 
+
+## Sponsoren
+
+Wir freuen uns über jede Unterstützung zur Verwirklichung des App Summer Camps.
+<p>Bitte wenden Sie sich an <a href="mailto: diana at OpenTechSchool dot org">diana at OpenTechSchool dot org</a></p>
+
+## Über die OpenTechSchool
+
+OpenTechSchool
+Die OpenTechSchool (OTS) ist eine Community-Initiative, die kostenlose Programmier-Workshops und -meetups für Tech-Interessierte anbietet. Das Hauptziel der OpenTechSchool liegt in der Schaffung offener Lern-Umgebungen, in denen keine Frage unbeantwortet bleiben soll. Ein jeder ist eingeladen sich daran zu beteiligen, ob als Coach oder Learner, oder um OTS Events überall auf der Welt zu organisieren.
