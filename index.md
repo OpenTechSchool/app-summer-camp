@@ -1,10 +1,10 @@
 ---
 layout: template
-title: Sample Project
-headline: Super awesome things for super awesome people
+title: App Summer Camp
+headline: Hamburg, 16. - 19. Juli 2013
 ---
 
-## About
+## Über das App Summer Camp
 This is a sample paragraph of Text for the Quick description of something awesome going on. You can also put in [markup links](http://www.opentechschool.org/) and lists and everything else in [markdown format](http://daringfireball.net/projects/markdown/) if you like. See:
 
  * We rock
