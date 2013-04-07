@@ -1,7 +1,7 @@
 ---
 layout: template
-title: Sample Project
-headline: Super awesome things for super awesome people
+title: App Summer Camp
+headline: Hamburg, 16. - 19. Juli 2013
 ---
 
 ## About
