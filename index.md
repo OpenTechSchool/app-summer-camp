@@ -30,7 +30,7 @@ Wer organisiert das App Summer Camp?
 <div class="team_list">
 	<div class="right">
 		
-		<img src="http://www.opentechschool.org/images/team/giorgia.jpg" />
+		<img src="http://speedspiration.com/images/diana2.png" />
 
 		<h3 id="gio">Diana</h3>
 		<p>Ich arbeite in der IT Branche. Studiert habe ich Medien Informatik in Verbindung mit Psychologie. Apps sind aus meinem Leben nicht mehr wegzudenken. Shopping, Fotos, Spiele - alles mit dem Handy.</p>
