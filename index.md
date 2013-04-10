@@ -30,7 +30,7 @@ Wer organisiert das App Summer Camp?
 <div class="team_list">
 	<div class="right">
 		
-		<img src="http://speedspiration.com/images/diana2.png" />
+		<img src="http://www.opentechschool.org/images/team/diana.jpg" />
 
 		<h3 id="gio">Diana</h3>
 		<p>Ich arbeite in der IT Branche. Studiert habe ich Medien Informatik in Verbindung mit Psychologie. Apps sind aus meinem Leben nicht mehr wegzudenken. Shopping, Fotos, Spiele - alles mit dem Handy.</p>
@@ -39,7 +39,7 @@ Wer organisiert das App Summer Camp?
 	</div>
 	<div class="left">
 		
-		<img src="http://www.opentechschool.org/images/team/aleks.jpg" />
+		<img src="http://www.opentechschool.org/images/team/marie.jpg" />
 
 		<h3 id="aleks">Marie</h3>
 		<p>Ich arbeite zur Zeit an der Stadtteilschule Stellingen. Studiert habe ich Politik und Spanisch. Das klingt ja erst mal nicht gerade nach App Entwicklung. Aber gerade beim Lernen von Fremdsprachen sind Apps eine absolute Bereicherung.</p>
@@ -52,24 +52,25 @@ Wer organisiert das App Summer Camp?
 ## Programm
 Das erwartet dich beim App Summer Camp
 
-* <h3>Tag 1: 16.07.2013, 11 - 15 Uhr</h3>
-Wir lernen uns kennen.
-Wir besuchen ein Startup/eine IT Firma. "Was ist ein Startup und welches besuchen wir?" Lass dich überraschen! :)
+<h3>Tag 1: 16.07.2013, 11 - 15 Uhr</h3>
+* Wir lernen uns kennen.
+* Wir bekommen Überraschungsbesuch und lernen ein Startup kennen. Lass dich überraschen.
 
-* <h3>Tag 2: 17.07.2013, 11 - 15 Uhr</h3>
-Du entwickelst Schritt für Schritt deine erste App fürs Handy. Abends kannst du sie deinen Freundinnen zeigen.
-Wir bekommen einen Überraschungsbesuch - sei gespannt!
+<h3>Tag 2: 17.07.2013, 11 - 15 Uhr</h3>
+* Deine Lieblingsapp: Stelle sie den anderen vor.
+* Du entwickelst Schritt für Schritt deine erste App fürs Handy. Abends kannst du sie deinen Freundinnen zeigen.
 
-* <h3>Tag 3: 18.07.2013, 11 - 15 Uhr</h3>
-Nun ist deine Kreativität gefragt: Im Team überlegt ihr euch ein cooles Konzept für eure eigene App.
-Eure erste eigene App: Die Coaches helfen euch dabei, dass alles so klappt, wie ihr euch das vorstellt.
+<h3>Tag 3: 18.07.2013, 11 - 15 Uhr</h3>
+* Nun ist deine Kreativität gefragt: Im Team überlegt ihr euch ein cooles Konzept für eure eigene App.
+* Eure erste eigene App: Die Coaches helfen euch dabei, dass alles so klappt, wie ihr euch das vorstellt.
 
-* <h3>Tag 4: 19.07.2013, 11 - 17 Uhr, Präsentation ab 18 Uhr</h3>
-Eure App ist bestimmt super geworden. Ihr bereitet eine Präsentation für den Abend vor. Auch hier stehen euch die Coaches wieder zur Seite.
-Abends sind alle auf eure App gespannt: Familie, Freunde und weitere Gäste freuen sich auf eure Präsentationen. Wir haben jeden Grund zu feiern und das tun wir auch!
+<h3>Tag 4: 19.07.2013, 11 - 17 Uhr, Präsentation ab 18 Uhr</h3>
+* Eure App ist bestimmt super geworden. Ihr bereitet eine Präsentation für den Abend vor. Auch hier stehen euch die Coaches wieder zur Seite.
+* Abends sind alle auf eure App gespannt: Familie, Freunde und weitere Gäste freuen sich auf eure Präsentationen. Wir haben jeden Grund zu feiern und das tun wir auch!
 
 ## Bewerbung
-Du hast Lust auf das App Summer Camp und bist motiviert? Dann bewirb dich!
+Du hast Lust auf das App Summer Camp und bist motiviert? Dann bewirb dich bis zum 16. Juni 2013
+<a href="https://docs.google.com/forms/d/14DswyoUZ3KdodYKk7YIwB7OX6lrRVn0zHk_3MZOj2ic/viewform" target="_blank">hier</a>.
 
 * <h3>Wer kann teilnehmen?</h3>
 Schülerinnen der Klassenstufen 8, 9 und 10. 
@@ -83,8 +84,6 @@ Nein, dafür machen wir das App Summer Camp ja. Vorkenntnisse sind nicht nötig.
 * <h3>Wie viele Plätze gibt es?</h3>
 Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe von 8 - 12 Schülerinnen. 
  
-Sobald wir mit der Bewerbungsphase starten, wirst du hier das Bewerbungsformular finden. 
-
 ## Sponsoren
 
 Wir freuen uns über jede Unterstützung zur Verwirklichung des App Summer Camps.
