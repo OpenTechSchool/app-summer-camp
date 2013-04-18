@@ -19,7 +19,8 @@ Für Schülerinnen der Klassen 8, 9 und 10. Programmierkenntnisse sind nicht nö
 Von Dienstag, 16. Juli bis Freitag, 19. Juli 2013. Jeweils ab 11 Uhr.
  
 * <h3>Wo?</h3>
-IBM, Beim Strohhause 17, 20097 Hamburg
+<p>IBM stellt uns für das App Summer Camp Räume zur Verfügung.</p>
+Adresse: IBM, Beim Strohhause 17, 20097 Hamburg
  
 * <h3>Kostenlos?</h3>
 Ja, dank unserer Sponsoren!
