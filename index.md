@@ -86,11 +86,12 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
  
 ## Sponsoren
 
-<p>Unsere Sponsoren helfen uns bei der Verwirklichung des App Summer Camps.</p>
-
-<a href="http://www.ibm.com/developerworks/mobile/" target="_blank">
-	<img src="http://ibmsystemsmag.blogs.com/.a/6a00d83545a5d153ef01761756597f970c-800wi" />
-</a>
+<p>Unsere Sponsoren helfen uns bei der Verwirklichung des App Summer Camps. Danke!</p>
+<p>
+	<a href="http://www.ibm.com/developerworks/mobile/" target="_blank">
+		<img src="http://ibmsystemsmag.blogs.com/.a/6a00d83545a5d153ef01761756597f970c-800wi" />
+	</a>
+</p>
 
 ## Über die OpenTechSchool
 
