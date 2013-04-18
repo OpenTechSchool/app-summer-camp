@@ -86,8 +86,10 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
  
 ## Sponsoren
 
-Wir freuen uns über jede Unterstützung zur Verwirklichung des App Summer Camps.
-<p>Bitte wenden Sie sich an <a href="mailto: diana at OpenTechSchool dot org">diana at OpenTechSchool dot org</a></p>
+Unsere Sponsoren helfen uns bei der Verwirklichung des App Summer Camps. Danke!
+<a href="http://www.ibm.com/developerworks/mobile/" target="_blank">
+	<img src="http://ibmsystemsmag.blogs.com/.a/6a00d83545a5d153ef01761756597f970c-800wi" />
+</a>
 
 ## Über die OpenTechSchool
 
