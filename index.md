@@ -98,4 +98,4 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
 
 OpenTechSchool
 Die OpenTechSchool (OTS) ist eine Community-Initiative, die kostenlose Programmier-Workshops und -meetups für Tech-Interessierte anbietet. Das Hauptziel der OpenTechSchool liegt in der Schaffung offener Lern-Umgebungen, in denen keine Frage unbeantwortet bleiben soll. Ein jeder ist eingeladen sich daran zu beteiligen, ob als Coach oder Learner, oder um OTS Events überall auf der Welt zu organisieren.
-Weitere Veranstaltungen der OpenTechSchool Hamburg findest du <a href="http://www.meetup.com/opentechschool-hamburg" target="_blank">hier</a>
+<p>Weitere Veranstaltungen der OpenTechSchool Hamburg findest du <a href="http://www.meetup.com/opentechschool-hamburg" target="_blank">hier</a>.</p>
