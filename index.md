@@ -70,8 +70,8 @@ Das erwartet dich beim App Summer Camp
 * Abends sind alle auf eure App gespannt: Familie, Freunde und weitere Gäste freuen sich auf eure Präsentationen. Wir haben jeden Grund zu feiern und das tun wir auch!
 
 ## Bewerbung
-Du hast Lust auf das App Summer Camp und bist motiviert? Dann bewirb dich bis zum 16. Juni 2013
-<a href="https://docs.google.com/forms/d/14DswyoUZ3KdodYKk7YIwB7OX6lrRVn0zHk_3MZOj2ic/viewform" target="_blank">hier</a>.
+Du hast Lust auf das App Summer Camp und bist motiviert? 
+<a href="https://docs.google.com/forms/d/14DswyoUZ3KdodYKk7YIwB7OX6lrRVn0zHk_3MZOj2ic/viewform" target="_blank">Dann bewirb dich bis zum 16. Juni 2013 hier</a>.
 
 * <h3>Wer kann teilnehmen?</h3>
 Schülerinnen der Klassenstufen 8, 9 und 10. 
@@ -98,3 +98,4 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
 
 OpenTechSchool
 Die OpenTechSchool (OTS) ist eine Community-Initiative, die kostenlose Programmier-Workshops und -meetups für Tech-Interessierte anbietet. Das Hauptziel der OpenTechSchool liegt in der Schaffung offener Lern-Umgebungen, in denen keine Frage unbeantwortet bleiben soll. Ein jeder ist eingeladen sich daran zu beteiligen, ob als Coach oder Learner, oder um OTS Events überall auf der Welt zu organisieren.
+Weitere Veranstaltungen der OpenTechSchool Hamburg findest du <a href="http://www.meetup.com/opentechschool-hamburg" target="_blank">hier</a>
