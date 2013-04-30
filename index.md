@@ -4,6 +4,8 @@ title: App Summer Camp
 headline: Hamburg, 16. - 19. Juli 2013
 ---
 
+![Flyer](/assets/flyer_web.gif)
+
 ## Über das App Summer Camp
 
 * <h3>Was?</h3>
