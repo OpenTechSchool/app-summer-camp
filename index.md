@@ -54,7 +54,7 @@ Wer organisiert das App Summer Camp?
 		
 		<img src="http://www.opentechschool.org/images/team/diana.jpg" />
 
-		<h3 id="diana">Irina</h3>
+		<h3>Irina</h3>
 		<p>Ich arbeite als Business Development & Sales Manager bei testhub GmbH, einem IT Startup in Berlin. Obwohl ich schon immer Spaß daran hatte mathematische Aufgaben zu lösen, hatte ich mich bei meinem Studium für BWL und nicht Informatik entschieden. Erst jetzt habe ich gemerkt wie viel Spaß mir der Umgang mit neuen Technologien macht und das Programmieren. Deshalb habe ich mir das Programmieren beigebracht.</p> 
 
 		<p>Ich freue mich auf das App Summer Camp, weil ich jungen Mädels einen möglichen Weg aufzeigen kann, einen Weg bei dem Technologie Spaß machen kann und in einer Umgebung wo sie nicht unter Druck gesetzt werden. Ich möchte ihnen eine Stimme verleihen, sich über Technologie auszudrücken. </p>
