@@ -113,7 +113,7 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
 </p>
 <p>
 	<a href="http://soundcloud.com" target="_blank">
-		<img src="http://speedspiration.com/images/soundcloud.png" width="30%" />
+		<img src="http://speedspiration.com/images/soundcloud_orange.png" width="30%" />
 	</a>
 	
 	
