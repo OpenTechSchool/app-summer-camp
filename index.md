@@ -31,7 +31,7 @@ Ja, dank unserer Sponsoren!
 Wer organisiert das App Summer Camp?
 
 <div class="team_list">
-	<div class="right">
+	<div >
 		
 		<img src="http://www.opentechschool.org/images/team/diana.jpg" />
 
@@ -40,7 +40,7 @@ Wer organisiert das App Summer Camp?
 		<p>Auf das App Summer Camp freu ich mich besonders, weil ich in meiner Branche wenig Kontakt zu Jugendlichen habe. Dabei arbeite ich sehr gerne mit Schülerinnen - vor allem wenn es um kreative Ideen geht. Ich hatte die Idee zum App Summer Camp, weil ich gerne zeigen möchte, wie viel Spaß Programmieren machen kann. </p>
 		<p><a href="mailto: diana at OpenTechSchool dot org">diana at OpenTechSchool dot org</a></p>
 	</div>
-	<div class="left">
+	<div >
 		
 		<img src="http://www.opentechschool.org/images/team/marie.jpg" />
 
