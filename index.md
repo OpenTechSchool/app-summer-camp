@@ -51,7 +51,7 @@ Wer organisiert das App Summer Camp?
 	</div>
 	<div>
 		
-		<img src="http://www.opentechschool.org/images/team/marie.jpg" />
+		<img src="http://speedspiration.com/images/irina.jpg" />
 
 		<h3>Irina</h3>
 		<p>Ich arbeite als Business Development und Sales Manager bei testhub GmbH, einem IT Startup in Berlin. Obwohl ich schon immer Spaß daran hatte mathematische Aufgaben zu lösen, hatte ich mich bei meinem Studium für BWL und nicht Informatik entschieden. Erst jetzt habe ich gemerkt wie viel Spaß mir Programmieren macht.</p>
