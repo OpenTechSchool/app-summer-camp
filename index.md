@@ -49,6 +49,15 @@ Wer organisiert das App Summer Camp?
 		<p>Auf das App Summer Camp freu ich mich besonders, weil ich dabei auch noch viel lernen kann. Meine erste eigene App habe ich vor kurzem entwickelt. Als sie dann tatsächlich auf dem Handy lief, fand ich das super. In den Ferien möchte ich meine neue Begeisterung für die App Entwicklung mit euch teilen. Darauf freu ich mich schon!</p>
 		
 	</div>
+	<div >
+		
+		<img src="http://www.opentechschool.org/images/team/marie.jpg" />
+
+		<h3 id="aleks">Marie</h3>
+		<p>Ich arbeite zur Zeit an der Stadtteilschule Stellingen. Studiert habe ich Politik und Spanisch. Das klingt ja erst mal nicht gerade nach App Entwicklung. Aber gerade beim Lernen von Fremdsprachen sind Apps eine absolute Bereicherung.</p>
+		<p>Auf das App Summer Camp freu ich mich besonders, weil ich dabei auch noch viel lernen kann. Meine erste eigene App habe ich vor kurzem entwickelt. Als sie dann tatsächlich auf dem Handy lief, fand ich das super. In den Ferien möchte ich meine neue Begeisterung für die App Entwicklung mit euch teilen. Darauf freu ich mich schon!</p>
+		
+	</div>
 	
 
 	
