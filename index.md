@@ -110,11 +110,10 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
 		<img src="http://ibmsystemsmag.blogs.com/.a/6a00d83545a5d153ef01761756597f970c-800wi" />
 	</a>
 	
-	800x500_black.png
 </p>
 <p>
-	<a href="http://speedspiration.com/images/soundcloud.png" target="_blank">
-		<img src="http://soundcloud.com" width="300px" />
+	<a href="http://soundcloud.com" target="_blank">
+		<img src="http://speedspiration.com/images/soundcloud.png" width="30%" />
 	</a>
 	
 	
