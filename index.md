@@ -12,7 +12,7 @@ headline: Hamburg, 16. - 19. Juli 2013
 An vier Tagen lernt ihr, eigene Apps zu entwickeln. Außerdem bekommt ihr ein Präsentationstraining, um eure eigene App am Ende vorzustellen. Ihr arbeitet in kleinen Teams und werdet unglaublich viel Spaß haben - versprochen!
  
 * <h3>Warum?</h3>
-Wir - das sind Marie und Diana - wollen Schülerinnen zeigen, dass es gar nicht so schwierig ist, eigene Apps zu entwicklen. Und vor allem, dass es super viel Spaß macht. Wir freuen uns auf euch!
+Wir - das sind Marie, Diana und Irina - wollen Schülerinnen zeigen, dass es gar nicht so schwierig ist, eigene Apps zu entwicklen. Und vor allem, dass es super viel Spaß macht. Wir freuen uns auf euch!
  
 * <h3>Für wen?</h3>
 Für Schülerinnen der Klassen 8, 9 und 10. Programmierkenntnisse sind nicht nötig. Das lernt ihr alles in unserem Workshop. Was ihr braucht: Spaß, Vorfreude und Motivation.
