@@ -55,7 +55,7 @@ Wer organisiert das App Summer Camp?
 
 		<h3>Irina</h3>
 		<p>Ich arbeite als Business Development und Sales Manager bei einem IT Startup in Berlin. Obwohl ich schon immer Spaß daran hatte mathematische Aufgaben zu lösen, hatte ich mich bei meinem Studium für BWL entschieden. Erst jetzt habe ich gemerkt wie toll Informatik ist und wie viel Spaß mir Programmieren macht.</p>
-		<p>Ich freue mich auf das App Summer Camp, weil ich jungen Mädels einen möglichen Weg aufzeigen kann, einen Weg bei dem Technologie Spaß machen kann und in einer Umgebung wo sie nicht unter Druck gesetzt werden. Ich möchte ihnen eine Stimme verleihen, sich über Technologie auszudrücken. </p>
+		<p>Ich freue mich auf das App Summer Camp, weil ich Schülerinnen zeigen kann, wie viel Spaß man mit neuen Technologien haben kann. Das alles in einer Umgebung, in der sie nicht unter Druck gesetzt werden. Ich möchte ihnen eine Stimme verleihen, sich über Technologie auszudrücken. </p>
 
 		
 	</div>
