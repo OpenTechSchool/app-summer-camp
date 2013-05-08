@@ -113,8 +113,8 @@ Das ist unser erstes App Summer Camp. Daher starten wir mit einer kleinen Gruppe
 	800x500_black.png
 </p>
 <p>
-	<a href="http://speedspiration.com/images/800x500_black.png" target="_blank">
-		<img src="http://soundcloud.com" />
+	<a href="http://speedspiration.com/images/soundcloud.png" target="_blank">
+		<img src="http://soundcloud.com" width="300px" />
 	</a>
 	
 	
