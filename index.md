@@ -4,6 +4,8 @@ title: App Summer Camp
 headline: Hamburg, 16. - 19. Juli 2013
 ---
 
+<h3>Update: Anmeldefrist verlängert bis zum 22. Juni</h3>
+
 ![Flyer](/assets/flyer_web.gif)
 
 ## Über das App Summer Camp
