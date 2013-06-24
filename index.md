@@ -91,7 +91,7 @@ Das erwartet dich beim App Summer Camp
 
 ## Bewerbung
 Du hast Lust auf das App Summer Camp und bist motiviert? 
-<a href="https://docs.google.com/forms/d/14DswyoUZ3KdodYKk7YIwB7OX6lrRVn0zHk_3MZOj2ic/viewform" target="_blank">Dann bewirb dich bis zum 22. Juni 2013 hier</a>.
+<a href="https://docs.google.com/forms/d/14DswyoUZ3KdodYKk7YIwB7OX6lrRVn0zHk_3MZOj2ic/viewform" target="_blank">Dann bewirb dich hier</a>.
 
 * <h3>Wer kann teilnehmen?</h3>
 Schülerinnen der Klassenstufen 8, 9 und 10. 
