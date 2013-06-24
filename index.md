@@ -4,7 +4,7 @@ title: App Summer Camp
 headline: Hamburg, 16. - 19. Juli 2013
 ---
 
-<p style="color:#ff0000;text-align:center;">Anmeldefrist ist vorbei. Du kannst dich für die Warteliste bewerben. Siehe unten.</p>
+<p style="color:#ff0000;text-align:center;">Die Anmeldefrist ist vorbei. Du kannst dich trotzdem bewerben. Wir haben eine Warteliste.</p>
 
 
 ![Flyer](/assets/flyer_web.gif)
